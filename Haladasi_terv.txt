@@ -1,0 +1,5 @@
+1. OpenNMT alapú eszközkészlet meghatározása (tensorflow,python)
+2. Előre betanított modellek xml fordításhoz
+3. Milyen training datasettel dolgoznak a betanítok modellek(xml-en belül)
+4. Általánosságban milyen irányelvek vannak a training dataset előírásával
+5. Előre betanított xml fordító modell milyen bemenetből milyen kimenetet állít elő, és ennek reprodukálása(milyen AI modell(hány paraméter, hány hidden layer), hány tanítási lépés, adatbázis mérete, stb)
